@@ -35,17 +35,11 @@ body
 	margin-bottom:30px;
 }
 
-.col-sm-4
-{
-	/* border: 4px dotted blue; */
-	height: 100%;
-	width: 100%;
-}
-
 #Heading1
 {
 	color:white;
-	text-align : center;
+	text-align : left;
+	padding-top:10px;
 }
 
 #normal
@@ -78,4 +72,28 @@ body
 	background-color: #04AA6D;
 	color: white;
 	border-radius: 10px;
+}
+
+.col-sm-4
+{
+	/* border : red dotted; */
+	padding-top:30px;
+}
+.col-sm-8
+{
+	/* border : red dotted; */
+	padding-top:10px;
+}
+
+.column
+{
+	width:100%;
+	height:100%;
+	float:center;
+}
+
+#listItems
+{
+	color:white;
+	font-size:22px;
 }
