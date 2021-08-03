@@ -30,6 +30,11 @@ body
 	border-radius: 10px;
 }
 
+img
+{
+	border-radius:10px;
+}
+
 .Links 
 {
 	margin-bottom:30px;
