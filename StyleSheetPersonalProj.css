@@ -46,7 +46,10 @@ body
   to{border-right-color: transparent;}
 }
 
-
+img
+{
+	border-radius:10px;
+}
 .jumbotron
 {
 	margin-top:10px;
@@ -69,19 +72,31 @@ body
 
 .col-sm-4
 {
-	 border: 4px dotted blue; 
+	/* border: 4px dotted blue; */
+}
+
+.col-sm-8
+{
+	/* border: 4px dotted blue; */
+}
+
+.row
+{
+	/* border:4px dotted blue; */
 }
 
 #Heading1
 {
 	color:white;
 	text-align : center;
+	font-size:44px;
 }
 
 #normal
 {
 	color:white;
-	text-align:center;
+	font-size:24px;
+	text-align:left;
 }
 
 /* Style the links inside the navigation bar */
