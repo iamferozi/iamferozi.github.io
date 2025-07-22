@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+*.log
+*.tgz
+.pnp.*
+
+# IDEs
+.vscode/
+.idea/
+
+# Build artifacts
+dist/
+build/
+coverage/
+
+# OS specific
+.DS_Store
+Thumbs.db
