@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.93690824.css",
-    "main.js": "/static/js/main.f152d971.js",
+    "main.js": "/static/js/main.aaa04a24.js",
     "static/css/487.bb36206c.chunk.css": "/static/css/487.bb36206c.chunk.css",
     "static/js/487.7ae187c0.chunk.js": "/static/js/487.7ae187c0.chunk.js",
     "static/css/990.c6a7ee28.chunk.css": "/static/css/990.c6a7ee28.chunk.css",
@@ -30,6 +30,7 @@
     "static/media/acro.webp": "/static/media/acro.53037c0cbd404de24923.webp",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/realdeal.png": "/static/media/realdeal.fd3f986c91fa5deded6a.png",
     "static/media/googleAssistantLogo.webp": "/static/media/googleAssistantLogo.f720c71652579588524a.webp",
     "static/media/prado.webp": "/static/media/prado.5fbd7b13a74e907addd7.webp",
     "static/media/pechs.jpeg": "/static/media/pechs.49e70dc372f862a177a8.jpeg",
@@ -40,7 +41,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.93690824.css.map": "/static/css/main.93690824.css.map",
-    "main.f152d971.js.map": "/static/js/main.f152d971.js.map",
+    "main.aaa04a24.js.map": "/static/js/main.aaa04a24.js.map",
     "487.bb36206c.chunk.css.map": "/static/css/487.bb36206c.chunk.css.map",
     "487.7ae187c0.chunk.js.map": "/static/js/487.7ae187c0.chunk.js.map",
     "990.c6a7ee28.chunk.css.map": "/static/css/990.c6a7ee28.chunk.css.map",
@@ -48,6 +49,6 @@
   },
   "entrypoints": [
     "static/css/main.93690824.css",
-    "static/js/main.f152d971.js"
+    "static/js/main.aaa04a24.js"
   ]
 }
